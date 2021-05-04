@@ -131,6 +131,24 @@ void piramida_5()
    }
 }
 
+void piramida_5.1()
+{
+    
+      for(int x=1; x!=11;x++)
+   {
+        
+        for(int z=10;z>=x;z--)
+        {
+          
+            cout<<z<<" ";
+           
+        
+        }
+    cout<<"\n";
+    }
+}
+
+
 /*
 0 1 2 3 4 5 6 7 8 9
 1 0 1 2 3 4 5 6 7 8
@@ -143,3 +161,26 @@ void piramida_5()
 8 7 6 5 4 3 2 1 0 1
 9 8 7 6 5 4 3 2 1 0
 */
+
+void piramida_6()
+{
+    for(int x=1; x<=10;x++)
+    {
+        for(int z=1;z<=10;z++)  
+        {
+            if(x>=z)
+            {
+                cout<<x-z<<" ";
+            }
+            else
+            {
+                cout<<z-x<<" ";
+            }
+            
+        
+          
+    
+            //cout<<"[ x="<<x<<", z="<<z<<" ] ";
+        }
+        cout<<"\n";
+    }
