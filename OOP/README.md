@@ -1,2 +1,11 @@
-# Learning
-AIci o sa pun learning stuff, mainly C++
+# OOP
+
+- Basics
+- Inheritance
+- Access Modifiers
+- Overload/Override
+- Virtual
+- Interface
+- Abstract
+- Problems
+  - Diamond Problem
