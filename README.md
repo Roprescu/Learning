@@ -7,6 +7,7 @@ Aici o sa pun learning stuff, mainly C++
 - Instructions
 - Data Structures
 - Pointers
+- Strings
 - Multi Threading
 - OOP (Object-Oriented-Programming)
 - Memory
