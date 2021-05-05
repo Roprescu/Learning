@@ -1,12 +1,14 @@
 # OOP
 
 - Basics
+- Constructors/Destructors
 - Inheritance
 - Access Modifiers
 - Overload/Override
 - Virtual
 - Interface
 - Abstract
+- Rule of 3/5s
 - Problems
   - Diamond Problem
 
