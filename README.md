@@ -14,4 +14,5 @@ Aici o sa pun learning stuff, mainly C++
 - Complexity
 - Algorithms
 - Bit Operations
+- Design Patterns
 - STL
